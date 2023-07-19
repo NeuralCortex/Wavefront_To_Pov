@@ -1,5 +1,7 @@
 # Wavefront To POV-Ray 1.0.0
 
+![image](https://github.com/NeuralCortex/Wavefront_To_Pov/blob/main/images/w2p.png)
+
 ## Funktionsweise des Programms
 
 Das Programm ist ein JavaFX-Projekt welches aus [Blender](https://en.wikipedia.org/wiki/Blender_(software)) exportierte [Wavefront](https://en.wikipedia.org/wiki/Wavefront_.obj_file) *.obj-Dateien in POV-Ray *.pov oder *.inc-Dateien umwandelt.</br>
